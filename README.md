@@ -1,7 +1,10 @@
 # Software1_HFMT_WS_2017
-## Max/MSP für Live Elektronik
+
+## Max/MSP für Live Elektronik (2)
 
 von [Dr. Chikashi Miyama](http://chikashi.net)
+
+Chikashi.Miyama *at* hfmt-koeln.de
 
 ---
 
@@ -19,10 +22,10 @@ Meine Andere Kurse über Live-Elektronik
 
 ---
 
-## Themenbereich WS 2017
+## Themenbereich WS 2017-2018
 
 - Scheduling in Max
-- Presetting in Max
+- Presetting und interpolation
 - Parameter Control in Max
 - Randomisierung und stochastik (Improvisation mit Computer)
 - DRY Prinzip und Programmirungsstruktur
