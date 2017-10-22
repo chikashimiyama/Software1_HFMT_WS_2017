@@ -8,7 +8,7 @@
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 315.0, 65.0, 258.0, 203.0 ],
+		"rect" : [ 367.0, 65.0, 224.0, 252.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -31,26 +31,12 @@
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
-					"id" : "obj-3",
+					"id" : "obj-2",
 					"maxclass" : "newobj",
 					"numinlets" : 0,
 					"numoutlets" : 0,
-					"patching_rect" : [ 83.0, 127.0, 83.0, 20.0 ],
-					"text" : "second #2"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"fontname" : "Arial",
-					"fontsize" : 12.0,
-					"id" : "obj-2",
-					"maxclass" : "newobj",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "int" ],
-					"patching_rect" : [ 83.0, 88.0, 32.5, 20.0 ],
-					"text" : "i #1"
+					"patching_rect" : [ 144.0, 137.0, 30.0, 20.0 ],
+					"text" : "test"
 				}
 
 			}
@@ -61,18 +47,18 @@
 					"id" : "obj-1",
 					"maxclass" : "newobj",
 					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "int" ],
-					"patching_rect" : [ 131.0, 88.0, 32.5, 20.0 ],
-					"text" : "i #2"
+					"numoutlets" : 3,
+					"outlettype" : [ "signal", "signal", "" ],
+					"patching_rect" : [ 47.0, 137.0, 72.0, 20.0 ],
+					"text" : "poly~ test 5"
 				}
 
 			}
  ],
 		"lines" : [  ],
 		"dependency_cache" : [ 			{
-				"name" : "second.maxpat",
-				"bootpath" : "/Users/chikashi/Works/Event/2017/Software1_HFMT_WS_2017/K2",
+				"name" : "test.maxpat",
+				"bootpath" : "/Users/chikashi/Works/Event/2017/Software1_HFMT_WS_2017/K2/patch",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
